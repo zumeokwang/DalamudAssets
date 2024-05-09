@@ -1,0 +1,7 @@
+[
+  {
+    "Name": "AwesomePluginName",
+    "AssemblyVersion": "1.0.0.0",
+    "Reason": "TheReasonWhyYouUnavailableForThisAndNeedToUpdate."
+  }
+]
