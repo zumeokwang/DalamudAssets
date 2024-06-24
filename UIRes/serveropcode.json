@@ -1,14 +1,14 @@
 {
-  "ActorControlSelf": 103,
-  "HousingWardInfo": 985,
-  "ContainerInfo": 121,
+  "ActorControlSelf": 617,
+  "HousingWardInfo": 866,
+  "ContainerInfo": 432,
   "MarketBoardItemRequestStart": 212,
   "MarketBoardHistory": 161,
   "MarketBoardOfferings": 588,
-  "MarketBoardPurchase": 940,
-  "InventoryActionAck": 338,
+  "MarketBoardPurchase": 209,
+  "InventoryActionAck": 142,
   "MarketTaxRates": 946,
-  "RetainerInformation": 962,
+  "RetainerInformation": 440,
   "ItemMarketBoardInfo": 890,
   "CfNotifyPop": 483
 }
